@@ -1,0 +1,5 @@
+Apple 58
+Grape 67
+Orange 52
+Durian 110
+Rambutan 35
